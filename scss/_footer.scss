@@ -1,0 +1,36 @@
+/* footer */
+.section-footer {
+    background-color: var(--color-white-light-3);
+}
+.wrapper-socials {
+    padding: 140px 0 60px 0;
+}
+.menu-socials {
+    text-align: center;
+    li{
+        display: inline-block;
+        text-align: center;
+        padding: 0 7px;
+    }
+}
+.icon-rotate.light-alt:hover {
+    background-color: var(--color-black-dark-4);
+    color: var(--color-white-primary);
+    transition: 0.7s;
+}
+.socials-logo {
+    text-align: center;
+}
+.socials-icon {
+    padding: 20px 0 100px 0;
+}
+.copyright {
+    text-align: center;
+    line-height: 24px;
+}
+.made-love {
+    font-size: 11px;
+    text-align: center;
+    color: var(--color-grey-dark-3);
+    line-height: 24px;
+}
